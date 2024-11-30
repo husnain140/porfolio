@@ -1,2 +1,4 @@
 # porfolio
-This is my first git Repository
+My name is Husnain.
+This is my first Git Repository.
+
